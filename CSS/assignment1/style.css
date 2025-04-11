@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(32, 29, 29);
+}
+.header {
+  background-color: #f504c9;
+  border-radius: 5px;
+  font-size: 30px;
+  width: 400px;
+  height: 100px;
+  align-content: center;
+  margin-bottom: -70px;
+  position: relative;
+  z-index: 2;
+  margin-left: 50px;
+}
+h1 {
+  margin: 0%;
+  text-align: center;
+}
+.paragraph {
+  background-color: white;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight:light;
+  width: 500px;
+  height: 200px;
+  align-content: center;
+  position: relative;
+  z-index: 1;
+  padding-top: 20px;
+}
+p {
+  margin: 0%;
+  text-align: center;
+  margin-top: 40px;
+}
